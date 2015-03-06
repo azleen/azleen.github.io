@@ -182,7 +182,7 @@ body {
   min-height: 100%;
   width: auto;
   height: auto;
-  background: url(media/faiq.png) no-repeat;
+  background: url(media/faiq1.png) no-repeat;
   background-size: cover;
   -webkit-transform: translate(-50%, -50%);
       -ms-transform: translate(-50%, -50%);
@@ -190,6 +190,6 @@ body {
 }
 
 @media screen and (max-device-width: 800px) {
-	body { background: url(media/faiq.png) #000 no-repeat center center fixed; }
+	body { background: url(media/faiq1.png) #000 no-repeat center center fixed; }
 	#bgvid { display: none; }
 }
